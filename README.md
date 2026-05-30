@@ -1,9 +1,9 @@
-```markdown
+
 # Mac Dev Sanity Check 🩺💻
 
 A lightweight, colorful Zsh diagnostic script to quickly validate your macOS development environment. 
 
-Setting up a new Mac or troubleshooting missing commands can be frustrating. This script runs a comprehensive "sanity check" across your system, verifying that essential tools, environment variables, and directories are correctly installed and accessible in your `$PATH`.
+Setting up a new Mac or troubleshooting missing commands can be frustrating. This script runs a comprehensive "sanity check" across your system, verifying that essential tools, environment variables, and directories are correctly installed and accessible in your `$PATH`. As trust, I have done it too often.  Hope it helps!
 
 ## What It Checks
 
